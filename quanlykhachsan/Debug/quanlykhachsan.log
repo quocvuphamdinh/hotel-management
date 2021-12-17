@@ -1,0 +1,29 @@
+﻿  khachsan.cpp
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(99,21): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(168,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(173,22): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(178,22): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(187,22): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(194,22): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(369,23): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(379,24): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(425,21): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(449,21): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(469,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(519,23): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(548,23): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(589,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(599,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(701,22): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(708,22): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(718,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(744,20): warning C4018: '<': signed/unsigned mismatch
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(757,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  quanlykhachsan.vcxproj -> D:\quanlykhachsanversion2\Debug\quanlykhachsan.exe

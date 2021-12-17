@@ -1,0 +1,22 @@
+﻿  hoadon.cpp
+D:\quanlykhachsanversion2\quanlykhachsan\hoadon.cpp(55,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\hoadon.cpp(59,67): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  khachhang.cpp
+  khachsan.cpp
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(201,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(202,66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(398,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(407,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(688,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(695,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(696,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(727,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(728,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\quanlykhachsanversion2\quanlykhachsan\khachsan.cpp(773,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Ngay.cpp
+  phong.cpp
+  phongthuong.cpp
+  phongvip.cpp
+  Generating Code...
+  quanlykhachsan.vcxproj -> D:\quanlykhachsanversion2\x64\Debug\quanlykhachsan.exe
